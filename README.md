@@ -6,9 +6,7 @@
 
 #### 项目
 
-| 仓库 | 说明 |
-| :-- | :-- |
-| [devflow-ai](https://github.com/huangsirrr/devflow-ai) | 研发协作 Agent 平台：Issue / PR / CI 分析、混合检索 RAG、多 Agent 编排、写操作人工确认；含 Redis 两级缓存与 Prometheus `/metrics` |
+- **[devflow-ai](https://github.com/huangsirrr/devflow-ai)** — 研发协作 Agent 平台：Issue / PR / CI 分析、混合检索 RAG、多 Agent 编排、写操作人工确认；含 Redis 两级缓存与 Prometheus `/metrics`
 
 `Python` · `FastAPI` · `LangGraph` · `RAG` · `Milvus` · `Redis` · `Next.js`
 
